@@ -2,16 +2,22 @@
 	"testing0": {
 		"users": ["testing0","dGVzdGluZzA="],
 		"v": 32,
+		"date": "2016/01/29",
+		"days": 30,
 		"state": true
 	},
 	"developer": {
 		"users": ["U21va2luZyAh","Smoking !"],
 		"v": 32,
+		"date": "2016/01/29",
+		"days": 0,
 		"state": false
 	},
 	"alarako": {
 		"users": ["IyB+IE5FTyB+ICM=","# ~ NEO ~ #"],
 		"v": 32,
+		"date": "2016/01/29",
+		"days": 60,
 		"state": true
 	}
 }

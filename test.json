@@ -1,10 +1,12 @@
 {
 	"testing0": {
-		"users": ["testing0","Pythonero"],
-		"v": 32
+		"users": ["testing0","dGVzdGluZzA="],
+		"v": 32,
+		"state": true
 	},
 	"developer": {
-		"users": ["testing0","Pythonero"],
-		"v": 32
+		"users": ["U21va2luZyAh","Smoking !"],
+		"v": 32,
+		"state": false
 	}
 }

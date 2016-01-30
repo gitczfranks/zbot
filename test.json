@@ -10,14 +10,14 @@
 		"users": ["zU21va2luZyAh0","Smoking !"],
 		"v": 32,
 		"date": "2016/01/29",
-		"days": 0,
-		"state": false
+		"days": 90,
+		"state": true
 	},
 	"alarako": {
 		"users": ["zIyB+IE5FTyB+ICM=0","# ~ NEO ~ #"],
 		"v": 32,
 		"date": "2016/01/29",
 		"days": 60,
-		"state": true
+		"state": false
 	}
 }

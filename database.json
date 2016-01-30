@@ -61,5 +61,12 @@
 		"days": "0",
 		"v": 36,
 		"state": true
+	},
+	"": {
+		"users": [],
+		"date": "2016/01/29",
+		"days": "0",
+		"v": 36,
+		"state": true
 	}
 }

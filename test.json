@@ -1,20 +1,20 @@
 {
 	"testing0": {
-		"users": ["testing0","dGVzdGluZzA="],
+		"users": ["testing0","zdGVzdGluZzA=0"],
 		"v": 32,
 		"date": "2016/01/29",
 		"days": 30,
 		"state": true
 	},
 	"developer": {
-		"users": ["U21va2luZyAh","Smoking !"],
+		"users": ["zU21va2luZyAh0","Smoking !"],
 		"v": 32,
 		"date": "2016/01/29",
 		"days": 0,
 		"state": false
 	},
 	"alarako": {
-		"users": ["IyB+IE5FTyB+ICM=","# ~ NEO ~ #"],
+		"users": ["zIyB+IE5FTyB+ICM=0","# ~ NEO ~ #"],
 		"v": 32,
 		"date": "2016/01/29",
 		"days": 60,

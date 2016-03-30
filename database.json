@@ -13,106 +13,8 @@
 		"v": 32,
 		"state": true
 	},
-	"Brayan:18": {
-		"users": ["zfk5lVkEgNGV2ZXJTayE90","zfkV2aWxNYXN0ZXJzRFh+0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 36,
-		"state": true
-	},
-	"frankTM": {
-		"users": ["zRnJhbmsgVGVycm9uZXM=0","zfnogR3JhY2llbGEgU2sj0","zWmlsVmFUaGVCZXN00","zTGlkaWEgRGF5YW5h0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 30,
-		"state": true
-	},
-	"diego abanto norabuena": {
-		"users": ["zekQtaS1lLWctbw==0","zT25lIFJlcHVibGlj0","zekVzcGVjdHJv0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 28,
-		"state": true
-	},
-	"llegoelpro": {
-		"users": ["zRXJpY2sgUOlyZXogQWd1aXJyZQ==0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 30,
-		"state": true
-	},
-	"pieri2015tm": {
-		"users": ["zQW53ZWVudGVk0","zN1NhbXVlbA==0","zRXVyb3BlYW4=0","zU21hY2s=0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 20,
-		"state": true
-	},
-	"ian": {
-		"users": ["zYXJjYW5nZWwgc2FtaQ==0","zVGlhZ28gYW56b25p0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 18,
-		"state": true
-	},
-	"terricithog12 ": {
-		"users": ["zdGVycmljaXRob3BrbXo=0","zRGV4dGVydW9z0","zKn4gSWxvdmUgVmljdG9S0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 7,
-		"state": true
-	},
-	"Joel Sanchez": {
-		"users": ["zeGlraXRobyB4eg==0","zdGUgYW1vIGxlb25lbGE=0","zTHlhbSBTYW5jaGV60","zdGh1IGRpYWJsaXRobyBY0"],
-		"date": "2016/01/29",
-		"days": "30",
-		"v": 36,
-		"state": true
-	},
-	"gonzalo  gives": {
-		"users": ["zc2hpc2VyMTk5NA==0","zc3VzcGlybw==0","zbWF0YWthYnJvejIwMTQ=0","zfiBTIEEgRCBNIEEgTiB+0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 30,
-		"state": true
-	},
-	"Portalatino": {
-		"users": ["zVmlsbCBEZSBQb3J0YQ==0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 5,
-		"state": true
-	},
-	"l*~*l Rap l*~*l": {
-		"users": ["zIF4gelNhbmRybyAhIF4=0","zIH5OeXh+U2FpZCAhIF4=0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 29,
-		"state": true
-	},
-	"CyberNetBot": {
-		"users": ["zUm95IFN0YWx5biBFc3Bpbm96YQ==0","zaVBpN3Vmbw==0","zaUFyN3Vy0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 29,
-		"state": true
-	},
-	"asterisco123": {
-		"users": ["zU2tzLVJvY2s=0","zTGVvIw==0","zUmljY2k0bG92ZQ==0","zTmlOaU9+VmlQ0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 30,
-		"state": true
-	},
-	"X-Josesba2001-X": {
-		"users": ["zWC1Kb3Nlc2JhMjAwMS1Y0"],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 35,
-		"state": true
-	},	
 	"venta_sala": {
-		"users": ["VElMU0E=","VG90b3JvIQ==","QmF0dXU=","VG9ycXVlTW9ua2V5","TWFkZG9n"],
+		"users": ["zVElMU0E=0","zVG90b3JvIQ==0","zQmF0dXU=0","zVG9ycXVlTW9ua2V50","zTWFkZG9n0"],
 		"date": "2016/03/29",
 		"days": "0",
 		"v": 55,
@@ -122,27 +24,6 @@
 		"users": [],
 		"date": "2016/01/29",
 		"days": "0",
-		"v": 36,
-		"state": true
-	},
-	"": {
-		"users": [],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 36,
-		"state": true
-	},
-	"": {
-		"users": [],
-		"date": "2016/01/29",
-		"days": "0",
-		"v": 36,
-		"state": true
-	},
-	"keyvico22": {
-		"users": ["za2V5dmljbzIy0","zSUlsbEhhY2hlbElsbA==0","zSUlJSGFjaGVJSWw=0","zUE90cmlsbE8gfg==0"],
-		"date": "2016/01/02",
-		"days": "30",
 		"v": 36,
 		"state": true
 	}

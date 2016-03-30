@@ -111,11 +111,11 @@
 		"v": 35,
 		"state": true
 	},	
-	"": {
-		"users": [],
-		"date": "2016/01/29",
+	"venta_sala": {
+		"users": ["VElMU0E=","VG90b3JvIQ==","QmF0dXU=","VG9ycXVlTW9ua2V5","TWFkZG9n"],
+		"date": "2016/03/29",
 		"days": "0",
-		"v": 36,
+		"v": 55,
 		"state": true
 	},
 	"": {

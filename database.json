@@ -18,7 +18,7 @@
 		"date": "2016/03/29",
 		"days": "0",
 		"v": 55,
-		"state": true
+		"state": false
 	},
 	"venta_neo": {
 		"users": ["zUmFkYW1hbnRoaXMx0","zbFJlc2V0dmljb0M=0"],
@@ -39,7 +39,7 @@
 		"date": "2016/04/12",
 		"days": "0",
 		"v": 55,
-		"state": true
+		"state": false
 	},
 	"oscar": {
 		"users": ["zVGhlUG9saWNl0","zU2luU2VudGlpbWllbnRv0"],

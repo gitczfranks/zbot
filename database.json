@@ -118,9 +118,16 @@
 		"v": 61,
 		"state": true
 	},
+	"Shinta Battousai": {
+		"users": ["z0","z0"],
+		"date": "2016/05/16",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
 	"": {
 		"users": [],
-		"date": "2016/05/03",
+		"date": "2016/05/16",
 		"days": "0",
 		"v": 58,
 		"state": true
